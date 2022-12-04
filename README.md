@@ -1,0 +1,2 @@
+# CostOfLivingAndExpenses
+deploy project
